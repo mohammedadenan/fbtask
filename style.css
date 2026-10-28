@@ -1,0 +1,211 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.fbheader{
+    background-color: #3C599B;
+    padding: 20px;
+    position: relative;
+     font-family: Arial, Helvetica, sans-serif;
+}
+.fblogo{
+    color: white;
+}
+.logform{
+    position: absolute;
+    right: 30px;
+    top: 18px;
+}
+#emaillab{
+    position: absolute;
+    top: -16px;
+    color: white;
+}
+#pswdlab{
+    position: absolute;
+    top: -16px;
+    color: white;
+    right: 112px;
+}
+#log{
+    position: absolute;
+    top: 30px;
+    left: 1px;
+    color: white;
+    
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+#pass{
+    position: absolute;
+    top: 30px;
+    right: 45px;
+}
+#logbtn{
+    background-color: #4267B2;
+    color: white;
+    position: relative;
+    right: -10px;
+}
+#right{
+    background-color: #E9EBEE;
+    top: px;
+    right: 5px;
+    height: 5050px;
+    width: 750px;
+    position: absolute;
+}
+
+body{
+    background: #E9EBEE;
+}
+h1{
+    padding: 2px;
+    font-family: Arial, sans-serif;
+}
+h3{
+    padding: 2px;
+    font-family: Arial, sans-serif;
+}
+
+
+
+.left-side {
+    
+    position: absolute;
+    top : 180px;
+    left: 20px;
+    width: 55%;
+}
+
+.left-side h2 {
+     
+    font-size: 30px;
+    font-weight: bold;
+    width: 650px;
+    line-height: 1.5;
+}
+
+.left-side img {
+    position: absolute;
+    top: 120px;
+    left: 0;
+    width: 700px;
+    height: 280px;
+}
+.name{
+    position: relative;
+    left: 0px;
+    top: 0px;
+    
+    
+}
+.firstname{
+    position: relative;
+    width: 190px;
+    height: 25px;
+    font-size: 16px;
+}
+.lastname{
+    position: relative;
+    width: 190px;
+    height: 30px;
+    font-size: 16px;
+}
+.lastname{
+    position: relative;
+    width: 190px;
+    height: 30px;
+    font-size: 16px;
+}
+
+
+.email{
+    position: relative;
+    width: 383px;
+    height: 30px;
+    font-size: 16px;
+
+}
+.ema{
+    
+    position: relative;
+    width: 383px;
+    height: 30px;
+    font-size: 16px;
+}
+.newpswd{
+    position: relative;
+    width: 383px;
+    height: 30px;
+    font-size: 16px;
+}
+.birth{
+    font-family: Arial, sans-serif;
+    /* font-size: 20px; */
+}
+select {
+    width: 80px;
+    height: 35px;
+    padding: 5px;
+    font-size: 14px;
+    border: 1px solid #ccd0d5;
+    border-radius: 4px;
+    background-color: white;
+    color: #1c1e21;
+}
+#why{
+
+    left: 250px;
+    position: relative;
+    top: -24px;
+    padding: 2px;
+}
+
+#fem{
+    width: 25px;
+    height: 18px;
+    accent-color: #1877f2;
+    cursor: pointer;
+    font-size: 50px;
+    padding: 2px;
+}
+#mal{
+    width: 25px;
+    height: 18px;
+    accent-color: #1877f2;
+    cursor: pointer;
+    font-size: 50px;
+    padding: 2px;
+}
+#by{
+    left: px;
+    position: relative;
+    top: 5px;
+    font-size: 16px;
+    padding: 2px;
+}
+#butt{
+    position: relative;
+    height: 40px;
+    width: 200px;
+   background-color: #42B72A;
+   font-size: 18px;
+   color: #FFFFFF;
+   /* border: 1px;
+   border-radius: 6px; */
+}
+hr{
+    border: 1px solid #dadde1;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+p{
+    font-size: 17px;
+    font: bold;
+    font-family: Arial, sans-serif;
+}
